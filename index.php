@@ -10,6 +10,7 @@
     <form>
      Valor 1<input type="text" name="valor1" value="valor1">
      Valor 2<input type="text" name="valor2" value="valor2">   
+     <input type="submit" name="enviar" value="enviar">
     </form>
     </body>
 </html>
