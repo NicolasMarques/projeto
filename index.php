@@ -7,6 +7,9 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-    
+    <form>
+     Valor 1<input type="text" name="valor1" value="valor1">
+     Valor 2<input type="text" name="valor2" value="valor2">   
+    </form>
     </body>
 </html>
